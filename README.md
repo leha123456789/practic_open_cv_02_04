@@ -1,0 +1,1 @@
+# practic_open_cv_02_04
